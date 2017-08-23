@@ -1,0 +1,11 @@
+Debug: false
+#是否开启测试模式。如果开启，使用插件任何指令都需要fw.debug权限。
+#Whether to open the test mode.If enabled,any instructions from the plugin need the fw.debug permission.
+#并且在测试中后台会有详细的插件处理信息。
+#And in the test, the backend will have plugin processing information.
+Language: Chinese
+#设置插件语言(Chinese/English)。
+#Set the plugin language(Chinese/English).
+#(在这里修改后,删除原Language文件并重载插件即可。)
+#(after modifying the configuration here,
+#you only need to delete Language.yml and reload the plugin.)

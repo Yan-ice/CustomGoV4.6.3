@@ -1,0 +1,10 @@
+﻿main: fw.Fwmain
+author: 千千
+usuage: /fw
+version: 4
+name: CustomGo
+commands:
+  fw:
+    description: main command
+  fwc:
+    description: chat command
